@@ -41,6 +41,8 @@ main {
 	justify-content: center;
 	padding: 0 30px;
 	text-align: center;
+	background-image: url(/css/background_img.jpg);
+	background-size: cover;
 }
 
 main > .intro {
