@@ -53,11 +53,18 @@ main > .tagline {
 	font-size: 1.5rem;
 	margin: 1.5rem 0;
 	font-weight: 100;
+	
 }
+
 
 .icons-social i {
 	padding: 10px;
 }
+.icons-social i:hover {
+	cursor: pointer;
+	filter: invert(100%);
+	
+  }
 
 .devto {
 	margin-bottom: -0.20rem;
