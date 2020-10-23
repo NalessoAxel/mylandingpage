@@ -86,7 +86,7 @@ main > .tagline:hover {
 }
 .icons-social i:hover {
 	cursor: pointer;
-	filter: invert(100%);
+	filter: invert(50%);
     transition: transform .2s;
 	-ms-transform: scale(1.25); /* IE 9 */
     -webkit-transform: scale(1.25); /* Safari 3-8 */
